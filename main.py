@@ -87,7 +87,7 @@ except Exception:
 
 # ==================== KEEP AWAKE PING ====================
 # Yahan apni Render website ka URL daalein
-URL_TO_PING = "https://your-app-name.onrender.com"
+URL_TO_PING = "https://xirusmodzlevelup.onrender.com"
 PING_INTERVAL = 60  
 
 async def keep_awake_task():
